@@ -11,7 +11,7 @@ AccessPoint is determined to provide individuals with functional disabilities, e
 Download the compressed folder below, extract and run the accessibility_map.html file.
 
 ## **Copyright**
-Copyright (C) <2026>  <Eason Peng, Thiti Khacharoen>
+Copyright (C) 2026  Eason Peng, Thiti Khacharoen
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
