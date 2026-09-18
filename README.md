@@ -8,7 +8,8 @@ AccessPoint is an easy, personalised way to view a place's accessibility status,
 AccessPoint is determined to provide individuals with functional disabilities, e.g. People in need of care, with an accessible map. This accessible map is determined to be the best map for the people in need of information regarding a place's accessibility. 
 
 ## **How to install**
-Download the compressed folder below, extract and run the accessibility_map.html file.
+Download the files from the latest release, unzip the folder using your preferred type of application, and run the .html file.
+*The README and the GNU Public License are all included in the latest releases.*
 
 ## **Copyright**
 **Copyright (C) 2026**
