@@ -10,6 +10,6 @@ AccessPoint is determined to provide individuals with functional disabilities, e
 ## **How to install**
 Download the compressed folder below, extract and run the accessibility_map.html file.
 
-## **About The Project**
+## **Copyright**
 
 
