@@ -10,3 +10,12 @@ AccessPoint is determined to provide individuals with functional disabilities, e
 ## **How to install**
 Download the compressed folder below, extract and run the accessibility_map.html file.
 
+About The Project
+Navigating public spaces should be a basic right, but for millions of people living with disabilities, standard navigation apps fail to provide the critical details needed to get around safely and independently.
+Our application bridges this gap by functioning like a crowdsourced, accessibility-first map. Designed specifically to enhance mobility, independence, and inclusion in daily life, our platform maps out physical spaces through an accessibility lens.
+Key Accessibility Features
+Physical Accessibility: Instant tags for wheelchair ramps, wide doorways, automatic doors, and accessible elevators.
+Visually Impaired Navigation: Locations flagged for Tactile Paving (Braille blocks), audio-assisted transit signals, and high-contrast signage.
+Deaf & Hard of Hearing Support: Indicators for visual alerts, visible emergency exits, and staff trained in basic sign language.
+Neurodiversity & Mental Health: Community feedback on sensory-friendly zones, quiet rooms, predictable lighting, and environments welcoming to neurodivergent individuals.
+
