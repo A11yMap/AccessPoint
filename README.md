@@ -26,4 +26,7 @@ but **WITHOUT ANY WARRANTY**; without even the implied warranty of
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program.  **If not**, see <https://www.gnu.org/licenses/>.   
+along with this program.  **If not**, see <https://www.gnu.org/licenses/>. 
+
+HOW THE APP WORKS
+basically what you have to do is when you open the app you have the option to select what disabilities you have or what you’re looking for particular so imagine you are deaf   when you first open up the app it’s gonna options and you’re gonna select the deaf option and there are more options like mentally challenged or blind or mute so what you have to do is choose the one that particularly fits you and then you can also search near me or cheap and then based on that the app will provide the perfect place for you.
